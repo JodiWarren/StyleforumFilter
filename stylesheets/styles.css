@@ -253,3 +253,11 @@ footer {
     color:#444;
   }
 }
+
+.button {
+  padding: .5em 1em;
+  background: grey;
+  color: white;
+  border-radius: 6px;
+  margin: 0 2em;
+  }
